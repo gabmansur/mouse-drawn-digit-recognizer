@@ -8,6 +8,7 @@ The main steps in this project are:
 * Pre-process the input image so it is in the correct format to feed it to model
 
 Snapshots from app: 
+
 ![initial](assets/canvas.PNG)
 ![initial](assets/canvas_filled.PNG)
 ![initial](assets/prediction.PNG)
